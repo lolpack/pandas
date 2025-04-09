@@ -13,9 +13,9 @@ project_excludes = [
 # Search path
 search_path = ["typings"]
 # Site package path
-#site_package_path = [
-#	".venv/lib/python3.11/site-packages"
-#]
+site_package_path = [
+	".venv/lib/python3.11/site-packages"
+]
 # Python platform and version
 python_version = "3.11"
 # Errors configuration
