@@ -37,6 +37,7 @@ psycopg2-binary>=2.9.6
 pyarrow>=10.0.1
 pymysql>=1.0.2
 pyreadstat>=1.2.0
+pyrefly
 tables>=3.8.0
 python-calamine>=0.1.7
 pytz>=2023.4
