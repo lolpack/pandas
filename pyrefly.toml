@@ -116,3 +116,7 @@ replace_imports_with_any = [
 	"pandas.conftest",
 	"pandas"
 ]
+
+[errors]
+# Ignore missing imports
+missing-module-attribute = false
