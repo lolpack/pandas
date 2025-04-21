@@ -120,3 +120,4 @@ replace_imports_with_any = [
 [errors]
 # Ignore missing imports
 missing-module-attribute = false
+import-error = false
